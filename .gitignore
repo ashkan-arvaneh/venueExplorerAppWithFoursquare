@@ -1,3 +1,9 @@
 .sass-cache/
 node_modules/bower/lib/node_modules/rc/node_modules/deep-extend/test/mocha.opts
 node_modules/
+app/vendor/
+dist/vendor/
+dist/css/bootstrap-theme.css
+dist/css/bootstrap-theme.min.css
+dist/css/bootstrap.css
+dist/css/bootstrap.min.css
