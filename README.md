@@ -1,7 +1,7 @@
 # venueExplorerAppWithFoursquare
 This is single page application using angularJS to fetch near location venues from Foursquare API
 
-<a href="http://www.ashkanarvaneh.co.uk/angular/venueExplorer/#/explore" target="_blank"> live Demo </a>
+<a href="https://www.ashkanarvaneh.co.uk/technical-tests/venue-explorer/#/explore" target="_blank"> live Demo </a>
 
 Clone the repo using git clone.
 In the root directory:
